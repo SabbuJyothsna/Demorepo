@@ -1,0 +1,22 @@
+
+git checkout branchName
+git checkout -b branchName -- new branch will create
+
+if your changes not yet commited 
+git stash
+
+then git pull origin branchName
+
+git stash pop 
+
+merge conflicts 
+
+git diff filename
+
+git add filename
+
+git commit -m "message"
+
+git push origin brachName
+
+
